@@ -16,9 +16,11 @@ Ved kjøring av CnnWebApplication.java får man visuelt opp grafen på localhost
 
 **images/** – Lagrede grafer fra utførelse.
 
+**webapp/** - Inneholder back-end Java implementasjon med Spring Boot.
+
 **main.py** – Hovedfilen som håndterer lasting av data, modelltrening og evaluering.
 
-**requirements.txt** – Liste over nødvendige Python-avhengigheter (TensorFlow, Matplotlib m.m.)
+**requirements.txt** – Liste over nødvendige Python-avhengigheter.
 
 # Resultater
 Etter 15 epoker oppnådde modellen 95% nøyaktighet på testsettet:
