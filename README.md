@@ -22,7 +22,7 @@ Ved kjøring av CnnWebApplication.java får man visuelt opp grafen på localhost
 
 **requirements.txt** – Liste over nødvendige Python-avhengigheter.
 
-# Resultater
+# Resultat
 Etter 15 epoker oppnådde modellen 95% nøyaktighet på testsettet:
 <img width="1680" height="836" alt="Screenshot 2025-08-06 at 22 49 05" src="https://github.com/user-attachments/assets/85ce5569-0c3a-41e5-a80f-b023000ea193" />
 
